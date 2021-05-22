@@ -5,7 +5,7 @@
 Primeiro prontuário do Brasil desenvolvido pelo **Setor Público de Saúde** voltado para Rede de Atenção Psicossocial do SUS.  
 Idealizado pela Superintndência de Saúde do Município do Rio de Janeiro.  
 Iniciado em Março de 2020 com gestão da Superintendência de Saúde Mental e desenvolvimento do sistema por grupo de desenvolvdores da Assessoria de Teconologia e Informação da Prefeitura do Rio de Janeiro, com uso de servidores do IPLANRIO para instalação do sistema e banco de dados.   
-Em 2021 o projeto, após adequações e melhor estruturação da equipe de desenvolvimento, continua sob gestão **Superintendência de Saúde Mental** mas o desenvolvimento do sistema  passou a ser feito pela equipe do **IPLANRIO**, além do uso de sua infraestrutura interna de servidores para implantação do sistema. A parceria com o IPLARIO foi de fundamental importancia para garantir o domínio público/SUS do **Prontuário Carioca da Saúde Mental**.
+Em 2021 o projeto, após adequações e melhor estruturação da equipe de desenvolvimento, continua sob gestão **Superintendência de Saúde Mental**, mas o desenvolvimento do sistema  passou a ser feito pela equipe do **IPLANRIO**, com manutenção do uso de sua infraestrutura interna de servidores para implantação do sistema. A parceria com o IPLARIO foi de fundamental importancia para garantir o domínio público/SUS do **Prontuário Carioca da Saúde Mental**.
 
 ## _Implantações_
 
