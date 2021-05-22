@@ -3,7 +3,9 @@
 
 ### _História_
 Primeiro prontuário do Brasil desenvolvido pelo **Setor Público de Saúde** voltado para Rede de Atenção Psicossocial do SUS.  
-Projeto desenvolvido pela Prefeitura do Rio de Janeiro através da **Superintendência de Saúde Mental** e **IPLANRIO**.  
+Idealizado pela Superintndência de Saúde do Município do Rio de Janeiro.  
+Iniciado em Março de 2020 com equipe do Núcleo de Informação da Superintendência de Saúde Mental e desenvolvedores da Assessoria de Teconologia e Informação da Prefeitura do Rio de Janeiro.
+Projeto atualmente desenvolvido pela Prefeitura do Rio de Janeiro através do **Núcleo de Informação da Superintendência de Saúde Mental** e **IPLANRIO**.  
 
 ## _Implantações_
 
@@ -18,7 +20,7 @@ Projeto desenvolvido pela Prefeitura do Rio de Janeiro através da **Superintend
 **09/04/2021** - Implantação no **CAPSII Lima Barreto.**  
 **15/04/2021** - Implantação no **CAPS III João Ferreira** e **CAPS AD III Paulo da Portela.**  
 **04/05/2021** - Implamtação no**CAPS II Neusa Santos Souza**.  
-**06/05/2021** - Concluída a **migração do PCSM para Internet.** Não dependeremos mais da existência da rede IPLAN nas unidades para acesso ao pontuário.  
+**06/05/2021** - Concluída a **migração do PCSM para Internet.** Não dependeremos mais da existência da rede IPLAN nas unidades para acesso ao pontuário.Esse foi um grande passo para o PCSM e para Rede de Atenção Psicossocial do Rio de Janeiro.  
 **10/05/2021** - Treinamento da equipe do CAPS AD III Paulo da Portela **por vídeo**.  
 **10/05/2021** - Apresentação do PCSM para equipe do **Núcleo DESINS/SSM**.  
 **11/05/2021** - Implantação no **CAPS AD III Antônio Carlos Mussum.**
