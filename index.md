@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+# _Prontuário Carioca da Saúde Mental_ - _PCSM_
+## _Prefeitura do Rio de Janeiro_ - _Superintendência de Saúde Mental / IPLANRIO_
 
-You can use the [editor on GitHub](https://github.com/grsonoda/github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### _História_
+Primeiro prontuário do Brasil desenvolvido pelo **Setor Público de Saúde** voltado para Rede de Atenção Psicossocial do SUS.  
+Idealizado pela Superintndência de Saúde do Município do Rio de Janeiro.  
+Iniciado em Março de 2020 com equipe do Núcleo de Informação da Superintendência de Saúde Mental e desenvolvedores da Assessoria de Teconologia e Informação da Prefeitura do Rio de Janeiro.
+Projeto atualmente desenvolvido pela Prefeitura do Rio de Janeiro através do **Núcleo de Informação da Superintendência de Saúde Mental** e **IPLANRIO**.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## _Implantações_
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/grsonoda/github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**08/12/2020** – Primeira implantação do PCSM no **CAPS III Manoel de Barros.**  
+**10/12/2020** – **CAPSi II Ilha do Governador**, recém inaugurado. Escolhido para implantação por ser um CAPSi novo, e assim já inicia suas atividades utilizando o novo prontuário.   
+**15/12/2020** – Implantação no **CAPS AD III Raul Seixas**  
+**28/01/2021** – Visita de acompanhamento ao CAPS Manoel de Barros e ao CAPSi Ilha do Goverador.  
+**15/12/2020** – Implantação no **CAPS AD III Raul Seixas**   
+**05/03/2021** – Apresentação do PCSM ao diretor do **IMAS Juliano Moreira**.  
+**05/04/2021** – Apresentação do PCSM a assessoras da SSM Maria Kemper, Catarine Venas e Roberta Mercadante.  
+**09/04/2021** – Visita de acompanhamento ao CAPS Manoel de Barros e ao CAPSi Ilha do Goverador.  
+**09/04/2021** - Implantação no **CAPSII Lima Barreto.**  
+**15/04/2021** - Implantação no **CAPS III João Ferreira** e **CAPS AD III Paulo da Portela.**  
+**04/05/2021** - Implamtação no**CAPS II Neusa Santos Souza**.  
+**06/05/2021** - Concluída a **migração do PCSM para Internet.** Não dependeremos mais da existência da rede IPLAN nas unidades para acesso ao pontuário.Esse foi um grande passo para o PCSM e para Rede de Atenção Psicossocial do Rio de Janeiro.  
+**10/05/2021** - Treinamento da equipe do CAPS AD III Paulo da Portela **por vídeo**.  
+**10/05/2021** - Apresentação do PCSM para equipe do **Núcleo DESINS/SSM**.  
+**11/05/2021** - Implantação no **CAPS AD III Antônio Carlos Mussum.**
+**13/05/2021** - Retomada da implantação no **CAPS AD III Raul Seixas**, pois ficou sem rede IPLAN após a implantação inicial realizada em 15/12/2020.
+**18/05/2021** - Implantação no **CAPSi III Maria Clara Machado**
+**18/05/2021** - Treinamento da equipe do CAPS AD III Paulo da Portela **por vídeo**. Participação de 38 pessoas no treinamento.  
+**19/05/2021** - Treinamento da equipe do CAPS AD III Raul Seixas **por vídeo**.  
+**20/05/2021** - Implantação no **CAPS AD III Míriam Makeba**.
