@@ -24,7 +24,7 @@ Em 2021 o projeto, após adequações e melhor estruturação da equipe de desen
 **06/05/2021** - **SPRINT 1 CONCLUÍDA**. Entre as tarefas executadas foi concluída a **migração do PCSM para Internet.** Não dependeremos mais da existência da rede IPLAN nas unidades para acesso ao pontuário.Esse foi um grande passo para o PCSM e para Rede de Atenção Psicossocial do Rio de Janeiro.  
 **10/05/2021** - Treinamento da equipe do **CAPS AD III Paulo da Portela, por vídeo**.  
 **10/05/2021** - Apresentação do PCSM para equipe do **Núcleo DESINS/SSM**.  
-**11/05/2021** - Implantação no **CAPS AD III Antônio Carlos Mussum.**
+**11/05/2021** - Implantação no **CAPS AD III Antônio Carlos Mussum.**  
 **13/05/2021** - Retomada da implantação no **CAPS AD III Raul Seixas**, pois ficou sem rede IPLAN após a implantação inicial realizada em 15/12/2020.  
 **18/05/2021** - Implantação no **CAPSi III Maria Clara Machado**  
 **18/05/2021** - Treinamento da equipe do **CAPS AD III Paulo da Portela, por vídeo**. Participação de 38 pessoas no treinamento.  
