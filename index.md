@@ -29,3 +29,6 @@ Em 2021 o projeto, após adequações e melhor estruturação da equipe de desen
 **18/05/2021** - Treinamento da equipe do CAPS AD III Paulo da Portela **por vídeo**. Participação de 38 pessoas no treinamento.  
 **19/05/2021** - Treinamento da equipe do CAPS AD III Raul Seixas **por vídeo**.  
 **20/05/2021** - Implantação no **CAPS AD III Míriam Makeba**.
+**25/05/2021** - Implantação no **CAPS III Fernando Diniz**.
+**27/05/2021** - Implantação no **CAPSi II Maurício de Souza**.
+**28/05/2021** - *1ª Roda de conversa com profissionais * Vídeo Conferência dos CAPS com PCSM implantado  **Tema: Cadastro de Pacientes**. Total de Participantes: 19.
