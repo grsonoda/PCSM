@@ -18,19 +18,20 @@ Em 2021 o projeto, após adequações e melhor estruturação da equipe de desen
 **05/04/2021** – Apresentação do PCSM a assessoras da SSM Maria Kemper, Catarine Venas e Roberta Mercadante.  
 **09/04/2021** – Visita de acompanhamento ao CAPS Manoel de Barros e ao CAPSi Ilha do Goverador.  
 **09/04/2021** - Implantação no **CAPSII Lima Barreto.**  
-**15/04/2021** - Implantação no **CAPS III João Ferreira** e **CAPS AD III Paulo da Portela.**  
+**15/04/2021** - Implantação no **CAPS AD III Paulo da Portela.**  
+**15/04/2021** - Implantação no **CAPS III João Ferreira.**
 **04/05/2021** - Implantação no**CAPS II Neusa Santos Souza**.  
 **06/05/2021** - **SPRINT 1 CONCLUÍDA**. Entre as tarefas executadas foi concluída a **migração do PCSM para Internet.** Não dependeremos mais da existência da rede IPLAN nas unidades para acesso ao pontuário.Esse foi um grande passo para o PCSM e para Rede de Atenção Psicossocial do Rio de Janeiro.  
-**10/05/2021** - Treinamento da equipe do CAPS AD III Paulo da Portela **por vídeo**.  
+**10/05/2021** - Treinamento da equipe do **CAPS AD III Paulo da Portela, por vídeo**.  
 **10/05/2021** - Apresentação do PCSM para equipe do **Núcleo DESINS/SSM**.  
 **11/05/2021** - Implantação no **CAPS AD III Antônio Carlos Mussum.**
 **13/05/2021** - Retomada da implantação no **CAPS AD III Raul Seixas**, pois ficou sem rede IPLAN após a implantação inicial realizada em 15/12/2020.
-**18/05/2021** - Implantação no **CAPSi III Maria Clara Machado**
-**18/05/2021** - Treinamento da equipe do CAPS AD III Paulo da Portela **por vídeo**. Participação de 38 pessoas no treinamento.  
-**19/05/2021** - Treinamento da equipe do CAPS AD III Raul Seixas **por vídeo**.  
+**18/05/2021** - Implantação no **CAPSi III Maria Clara Machado**  
+**18/05/2021** - Treinamento da equipe do **CAPS AD III Paulo da Portela, por vídeo**. Participação de 38 pessoas no treinamento.  
+**19/05/2021** - Treinamento da equipe do **CAPS AD III Raul Seixas, por vídeo**.  
 **20/05/2021** - Implantação no **CAPS AD III Míriam Makeba**.  
 **21/05/2021** - **SPRINT 2 CONCLUÍDA**.  
 **25/05/2021** - Implantação no **CAPS III Fernando Diniz**.  
 **27/05/2021** - Implantação no **CAPSi II Maurício de Souza**.  
 **28/05/2021** - **1ª Roda de Conversa com Profissionais** Vídeo Conferência dos CAPS com PCSM implantado  **Tema: Cadastro de Pacientes**. Total de Participantes: 19.  
-**28/05/2021** - **Subida para produção da SPRINT 2, após homologação**.  
+**28/05/2021** - **Subida para produção da SPRINT 2**, após homologação.  
