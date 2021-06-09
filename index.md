@@ -19,7 +19,7 @@ Em 2021 o projeto, após adequações e melhor estruturação da equipe de desen
 **09/04/2021** – Visita de acompanhamento ao CAPS Manoel de Barros e ao CAPSi Ilha do Goverador.  
 **09/04/2021** - Implantação no **CAPSII Lima Barreto.**  
 **15/04/2021** - Implantação no **CAPS AD III Paulo da Portela.**  
-**15/04/2021** - Implantação no **CAPS III João Ferreira.**
+**15/04/2021** - Implantação no **CAPS III João Ferreira.**  
 **04/05/2021** - Implantação no**CAPS II Neusa Santos Souza**.  
 **06/05/2021** - **SPRINT 1 CONCLUÍDA**. Entre as tarefas executadas foi concluída a **migração do PCSM para Internet.** Não dependeremos mais da existência da rede IPLAN nas unidades para acesso ao pontuário.Esse foi um grande passo para o PCSM e para Rede de Atenção Psicossocial do Rio de Janeiro.  
 **10/05/2021** - Treinamento da equipe do **CAPS AD III Paulo da Portela, por vídeo**.  
@@ -35,5 +35,6 @@ Em 2021 o projeto, após adequações e melhor estruturação da equipe de desen
 **27/05/2021** - Implantação no **CAPSi II Maurício de Souza**.  
 **28/05/2021** - **Roda de Conversa com Profissionais** Vídeo Conferência dos CAPS com PCSM implantado  **Tema: Cadastro de Pacientes**. Total de Participantes: 19.  
 **28/05/2021** - **Subida para produção da SPRINT 2**, após homologação.  
-**01/06/2021** - Implantação no **CAPS III Fanco Basaglia**.
-**08/06/2021** - **Roda de Conversa com Profissionais** Vídeo Conferência dos CAPS com PCSM implantado  **Tema: Acolhimento Inicial**. Total de Participantes: 16.
+**01/06/2021** - Implantação no **CAPS III Fanco Basaglia**.  
+**02/06/2021** - **SPRINT 3 CONCLUÍDA**.  
+**08/06/2021** - **Roda de Conversa com Profissionais** Vídeo Conferência dos CAPS com PCSM implantado  **Tema: Acolhimento Inicial**. Total de Participantes: 16.  
