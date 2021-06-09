@@ -33,5 +33,7 @@ Em 2021 o projeto, após adequações e melhor estruturação da equipe de desen
 **21/05/2021** - **SPRINT 2 CONCLUÍDA**.  
 **25/05/2021** - Implantação no **CAPS III Fernando Diniz**.  
 **27/05/2021** - Implantação no **CAPSi II Maurício de Souza**.  
-**28/05/2021** - **1ª Roda de Conversa com Profissionais** Vídeo Conferência dos CAPS com PCSM implantado  **Tema: Cadastro de Pacientes**. Total de Participantes: 19.  
+**28/05/2021** - **Roda de Conversa com Profissionais** Vídeo Conferência dos CAPS com PCSM implantado  **Tema: Cadastro de Pacientes**. Total de Participantes: 19.  
 **28/05/2021** - **Subida para produção da SPRINT 2**, após homologação.  
+**01/06/2021** - Implantação no **CAPS III Fanco Basaglia**.
+**08/06/2021** - **Roda de Conversa com Profissionais** Vídeo Conferência dos CAPS com PCSM implantado  **Tema: Acolhimento Inicial**. Total de Participantes: 16.
