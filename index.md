@@ -2,10 +2,10 @@
 ## _Prefeitura do Rio de Janeiro_ - _Superintendência de Saúde Mental / IPLANRIO_
 
 ### _História_
-Primeiro prontuário do Brasil desenvolvido pelo **Setor Público de Saúde** voltado para Rede de Atenção Psicossocial do SUS.  
-Idealizado pela Superintndência de Saúde do Município do Rio de Janeiro.  
-Iniciado em Março de 2020 com gestão da Superintendência de Saúde Mental e desenvolvimento do sistema por grupo de desenvolvdores da Assessoria de Teconologia e Informação da Prefeitura do Rio de Janeiro, com uso de servidores do IPLANRIO para instalação do sistema e banco de dados.   
-Em 2021 o projeto, após adequações e melhor estruturação da equipe de desenvolvimento, continua sob gestão **Superintendência de Saúde Mental**, mas o desenvolvimento do sistema  passou a ser feito pela equipe do **IPLANRIO**, com manutenção do uso de sua infraestrutura interna de servidores para implantação do sistema. A parceria com o IPLARIO foi de fundamental importancia para garantir o domínio público/SUS do **Prontuário Carioca da Saúde Mental**.
+Primeiro prontuário do Brasil *desenvolvido pelo Setor Público de Saúde* voltado especificamente para Rede de Atenção Psicossocial do SUS.
+Idealizado pela Superintendência de Saúde do Município do Rio de Janeiro, seu desenvolvimento teve início em março de 2020 com gestão da Superintendência de Saúde Mental e desenvolvimento do sistema por grupo de desenvolvedores da Assessoria de Tecnologia e Informação da Prefeitura do Rio de Janeiro, com uso de servidores do IPLANRIO para instalação do sistema e banco de dados.
+Em 2021 o projeto, após adequações e melhor estruturação da equipe de desenvolvimento, continua sob gestão Superintendência de Saúde Mental, mas seu desenvolvimento passou a ser feito pela equipe do IPLANRIO, além da manutenção do uso de sua infraestrutura interna de servidores. A parceria com o IPLANRIO foi de fundamental importância para garantir o domínio público/SUS do Prontuário Carioca da Saúde Mental do Município do Rio de Janeiro.
+**.
 
 ## _Implantações_
 
@@ -37,4 +37,21 @@ Em 2021 o projeto, após adequações e melhor estruturação da equipe de desen
 **28/05/2021** - **Subida para produção da SPRINT 2**, após homologação.  
 **01/06/2021** - Implantação no **CAPS III Franco Basaglia**.  
 **02/06/2021** - **SPRINT 3 CONCLUÍDA**.  
-**08/06/2021** - **Roda de Conversa com Profissionais** Vídeo Conferência dos CAPS com PCSM implantado  **Tema: Acolhimento Inicial**. Total de Participantes: 16.  
+**08/06/2021** - **Roda de Conversa com Profissionais** Vídeo Conferência dos CAPS com PCSM implantado  **Tema: Acolhimento Inicial**. Total de Participantes: 16.
+**15/06/2021** - **Reunião de apresentação para CAP 2.1**    
+**18/06/2021** - **SPRINT 4 CONCLUÍDA**    
+**21/06/2021** - **Reunião de apresentação para SUBHUE e SUBPAV** 
+**28/06/2021** - **Reunião de apresentação para CAP 5.3**    
+**02/07/2021** - **SPRINT 5 CONCLUÍDA**    
+**05/07/2021** - **Reunião de planejamento para passagem do PRIME para PCSM** com CAPS Raul Seixas e participação da equipe da RIOSAÚDE (Joyce e Eduardo Lomba) e Carina Técnica do EAT, que será apoio para administrativos do Raul Seixas na questão do RAAS.
+**06/07/2021** - Mutirão de treinamento no **CAPS Lima Barreto**   
+**06/07/2021** - Implantação no **CAPS Simão Bacamarte**    
+**13/07/2021** - **Reunião para passagem do PRIME com CAP/DICA 2.1** dos CAPS Franco Basaglia e CAPS Maria do Socorro. Participação do CAPS Maurício de Souza.  
+**13/07/2021** - Implantação no **CAPS Júlio César**    
+**14/07/2021** - **Reunião de apresentação do PCSM para CAP/DICA 3.2** com presença de representantes de todos os CAPS da área.  
+**15/07/2021** - **Reunião de apresentação do PCSM e discussão da passagem do PRIME com CAP/DICA 3.3** e CAPS Paulo da Portela.  
+**15/07/2021** - **Treinamento no CAPS Paulo da Portela sobre convivência e Grupos**  
+**16/07/2021** - **SPRINT 6 CONCLUÍDA**    
+**19/07/2021** - Mutirão de treinamento no **CAPS Raul Seixas** - PROGRAMADO  
+**21/07/2021** - Implantação no **CAPS Maria do Socorro** - PROGRAMADO  
+**28/07/2021** - Mutirão de treinamento no **CAPS Heitor Villa Lobos** - PROGRAMADO  
