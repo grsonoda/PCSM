@@ -53,5 +53,6 @@ Em 2021 o projeto, após adequações e melhor estruturação da equipe de desen
 **15/07/2021** - **Treinamento no CAPS Paulo da Portela sobre convivência e Grupos**  
 **16/07/2021** - **SPRINT 6 CONCLUÍDA**    
 **19/07/2021** - Mutirão de treinamento no **CAPS Raul Seixas** - PROGRAMADO  
+**14/07/2021** - **Reunião de apresentação do PCSM para CAP/DICA 3.1** com presença de representantes de todos os CAPS da área. - PROGRAMADO  
 **21/07/2021** - Implantação no **CAPS Maria do Socorro** - PROGRAMADO  
 **28/07/2021** - Mutirão de treinamento no **CAPS Heitor Villa Lobos** - PROGRAMADO  
