@@ -72,6 +72,6 @@ Em 2021 o projeto, após adequações e melhor estruturação da equipe de desen
 **21/09/2021** - Implantação no **CAPS Pedro Pellegrino.**  
 **24/09/2021** - **Treinamento da equipe do  CAPS Franco Basaglia.**  
 **30/09/2021** - **Treinamento da equipe do  CAPS João Ferreira Filho.**  
-**30/09/2021** - reunião virtual para retirada de dúvidas da **equipe do  CAPS Júlio César de Carvalho.**  
+**30/09/2021** - Reunião virtual para retirada de dúvidas da **equipe do  CAPS Júlio César de Carvalho.**  
 
 
