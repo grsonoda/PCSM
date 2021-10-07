@@ -52,7 +52,26 @@ Em 2021 o projeto, após adequações e melhor estruturação da equipe de desen
 **15/07/2021** - **Reunião de apresentação do PCSM e discussão da passagem do PRIME com CAP/DICA 3.3** e CAPS Paulo da Portela.  
 **15/07/2021** - **Treinamento no CAPS Paulo da Portela sobre convivência e Grupos**  
 **16/07/2021** - **SPRINT 6 CONCLUÍDA**    
-**19/07/2021** - Mutirão de treinamento no **CAPS Raul Seixas** - PROGRAMADO  
-**14/07/2021** - **Reunião de apresentação do PCSM para CAP/DICA 3.1** com presença de representantes de todos os CAPS da área. - PROGRAMADO  
-**21/07/2021** - Implantação no **CAPS Maria do Socorro** - PROGRAMADO  
-**28/07/2021** - Mutirão de treinamento no **CAPS Heitor Villa Lobos** - PROGRAMADO  
+**19/07/2021** - Mutirão de treinamento no **CAPS Raul Seixas**  
+**14/07/2021** - **Reunião de apresentação do PCSM para CAP/DICA 3.1** com presença de representantes de todos os CAPS da área.
+**21/07/2021** - Implantação no **CAPS Maria do Socorro** 
+**28/07/2021** - Mutirão de treinamento no **CAPS Heitor Villa Lobos**
+**29/07/2021** - Reunião virtual para **apresentação de novidades e alterações no PCSM** para todo grupo da implantação.
+**02/08/2021** - **Treinamento da equipe do  CAPS Míriam Makeba.**
+**04/08/2021** - Implantação no **CAPS Franco Basaglia.**
+**05/08/2021** - Reunião de apresentação do PCSM para **CAP/DICA 5.1 e 5.2** com presença de representantes de todos os CAPS das áreas.
+**11/08/2021** - **Treinamento da equipe do  CAPS Raul Seixas.**
+**17/08/2021** - **Reunião virtual com equipe IPLANRIO** para discussão específica para desenvolvimento do acolhimento.
+**17/08/2021** - Conversa virtual para **apresentação de novidades da Sprint 8 no PCSM** para os usuários do sistema.
+**23/07/2021** - Apresentação do PCSM para **equipe SSM**.
+**24/08/2021** - **Treinamento da equipe da UAA Metamorfose Ambulante,** serviço do CAPS Míriam Makeba.
+**30/08/2021** - Reunião com **gestores locais do CAPS Manoel de Barros** para **discussão sobre prescrição médica.**
+**05/08/2021** - Reunião de apresentação do PCSM para **CAP/DICA 2.2** com presença de representantes de todos os CAPS das áreas.
+**02/09/2021** - Implantação no **CAPS Carlos Augusto Magal.**
+**16/09/2021** - Reunião para programar o recebimento da base de dados do PRIME / ECO SISTEMAS junto com as respectivas OS (VIVA RIO, GNOSES, RIOSAUDE). Presença de representantes do IPLAN e de todas as OS. 
+**21/09/2021** - Implantação no **CAPS Pedro Pellegrino.**
+**24/09/2021** - **Treinamento da equipe do  CAPS Franco Basaglia.**
+**30/09/2021** - **Treinamento da equipe do  CAPS João Ferreira Filho.**
+**30/09/2021** - reunião virtual para retirada de dúvidas da **equipe do  CAPS Júlio César de Carvalho.**
+
+
